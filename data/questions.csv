@@ -1,0 +1,14 @@
+MCQ,Which keyword is used to define a subclass in Java?,A,extends,implements,super,class
+MCQ,Which of the following is not a Java primitive type?,D,int,float,String,double
+MCQ,What is the default value of a boolean variable in Java?,B,true,false,0,null
+MCQ,Which method is the entry point of a Java program?,C,main(),start(),public static void main(String[] args),run()
+MCQ,Which of these is a valid identifier in Java?,B,123name,_student,name@java,public
+MCQ,What is the size of a `char` in Java?,A,2 bytes,1 byte,4 bytes,Depends on platform
+MCQ,Which keyword is used to stop a loop in Java?,C,exit,stop,break,return
+MCQ,Which operator is used for equality check in Java?,B,=,==,!=,equals
+TF,Java supports multiple inheritance through classes.,False
+TF,A class can have multiple constructors.,True
+TF,All Java code must be inside a class.,True
+TF,String is a primitive type in Java.,False
+TF,Java is a compiled language.,True
+TF,Static methods can be called without creating an object.,True
